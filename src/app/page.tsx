@@ -1,9 +1,7 @@
-import { ChatPage } from "./chat/page";
-
 export default function Home() {
   return (
     <div>
-      <ChatPage />
+      <h1>Hello World</h1>
     </div>
   );
 }
